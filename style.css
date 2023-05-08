@@ -1,0 +1,10 @@
+/** @format */
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(195, 212, 228);
+}
+
+section {
+  padding-top: 5rem;
+}
